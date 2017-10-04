@@ -7,7 +7,7 @@ Some tools you may use:
 
 #### Impact vs Effort graphs or Novelty vs Effort graphs 
 
-![GRAPHS](../effort-graphs.PNG)
+![GRAPHS](../effort-graphs.png)
 
 You can consider where your theme fits in the four quads of the graphs 
 * Impact - refers to how much the theme will help achieve your goal 
