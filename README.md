@@ -1,6 +1,6 @@
 # Find your Inner Tech Talk Topic
 
-[Slides](GHCI 17.pptx)
+[Slides](GHCI%2017.pptx)
 
 ### Before the Workshop
 
